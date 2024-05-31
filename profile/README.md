@@ -1,3 +1,2 @@
 ## Hi there 👋
-RoidsOS is an operating system IDK.
-ill just keep this simple and humble
+RoidsOS is a truly desktop focused OS, it is also the learning project of @lolguy91
