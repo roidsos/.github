@@ -1,4 +1,5 @@
 ## Hi there 👋
-RoidsOS is a truly desktop focused OS, it is also the learning project of @lolguy91
+RoidsOS is an experimental OS trying anarchist software development system
 
 official discord: https://discord.gg/pttATucYZV
+insider form: https://forms.gle/RbJAxEdF1RGswudL7
